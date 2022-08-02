@@ -43,6 +43,8 @@ fun printCakeBottom(candles: Int, layers: Int){
 
 
 Output
+
+
 ![image](https://user-images.githubusercontent.com/95444663/182279567-6b7c33e4-f133-4a75-bc16-5621949c3d51.png)
 
 
