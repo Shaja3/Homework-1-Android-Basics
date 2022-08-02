@@ -1,6 +1,6 @@
 # Homework-1-Android-Basics
 
-شجاع عايش المطيري
+Name: Shujaa Almutairi | الأسم:شجاع المطيري
 
 ### Description | وصف الواجب
 In this task, you are going to build a code to bake a cake to always be the right number of layers, size, and with the right number of candles.
@@ -26,4 +26,6 @@ In this task, you are going to build a code to bake a cake to always be the righ
 
 ### Here is a picture of the cake you will be baking | صورة النتيجة النهائية
 
-![Cake Output](https://github.com/shaima-alghamdi-tuwaiq/Homework-1-Android-Basics/blob/a745ff19ff5912d2533905b53421b6a3f0cbd85d/output.png)
+[Cake Output]
+
+![image](https://user-images.githubusercontent.com/95444663/182283451-e6dc9ad9-cace-4d74-9c4b-79bae78063d5.png)
