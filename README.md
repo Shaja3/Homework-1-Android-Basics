@@ -21,8 +21,7 @@ In this task, you are going to build a code to bake a cake to always be the righ
 > The way you will build up this code is how you can build up any program, starting with the big picture and adding detail. This is called "top-down development".
 
 ### website | الموقع
-[kotlin playground](https://www.bing.com/ck/a?!&&p=b369e8c07fffd4eeJmltdHM9MTY1OTQxMTU2NCZpZ3VpZD1mNTgxNzI0Ni02NDgwLTQ1YmItODFhZC05MzNiYjcwOThiYjQmaW5zaWQ9NTE0Mg&ptn=3&hsh=3&fclid=b35987e9-1214-11ed-880d-6e9d0a6b5fdc&u=a1aHR0cHM6Ly9kZXZlbG9wZXIuYW5kcm9pZC5jb20vdHJhaW5pbmcva290bGlucGxheWdyb3VuZA&ntb=1)
-
+[kotlin playground](https://play.kotlinlang.org)
 ### The Solution | الحل
 
 [Solution](https://pl.kotl.in/DdZHsA7ZG)
